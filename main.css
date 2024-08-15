@@ -1,0 +1,60 @@
+table{
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    height: 90%;
+    
+    
+}
+
+th,td{
+    border: 1px solid blue;
+   height: 90%;
+
+}
+
+.text1{
+    background-color: yellow;
+    height: 90%;
+}
+
+
+.Iop1{
+  background-color: black;  
+  color: white;
+  height: 90%;
+}
+
+
+
+.fot1{
+    
+    background-color: red;
+    height: 90%;
+}
+
+
+.fot2{
+    
+    background-color: green;
+    height: 90%;
+}
+
+.text2{
+    background-color: green;
+    height: 90%;
+}
+
+
+
+h2{
+    color: white;
+    background-color: blue;
+ text-align: center;
+  width: 50%;
+  height: 90%;
+}
+
+.top3{
+    background-color: red;
+}
